@@ -1,0 +1,17 @@
+debug/dataanalyzer.o
+debug/databasemanager.o
+debug/databuffer.o
+debug/dataprocessor.o
+debug/historyviewer.o
+debug/iioreceiver.o
+debug/main.o
+debug/mainwindow.o
+debug/waveformwidget.o
+debug/moc_dataanalyzer.o
+debug/moc_databasemanager.o
+debug/moc_databuffer.o
+debug/moc_dataprocessor.o
+debug/moc_historyviewer.o
+debug/moc_iioreceiver.o
+debug/moc_mainwindow.o
+debug/moc_waveformwidget.o

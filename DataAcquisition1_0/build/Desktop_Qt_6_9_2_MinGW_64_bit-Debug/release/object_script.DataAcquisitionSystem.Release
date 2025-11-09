@@ -1,0 +1,17 @@
+release/dataanalyzer.o
+release/databasemanager.o
+release/databuffer.o
+release/dataprocessor.o
+release/historyviewer.o
+release/iioreceiver.o
+release/main.o
+release/mainwindow.o
+release/waveformwidget.o
+release/moc_dataanalyzer.o
+release/moc_databasemanager.o
+release/moc_databuffer.o
+release/moc_dataprocessor.o
+release/moc_historyviewer.o
+release/moc_iioreceiver.o
+release/moc_mainwindow.o
+release/moc_waveformwidget.o
